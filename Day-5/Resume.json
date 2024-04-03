@@ -1,0 +1,32 @@
+{
+    "basics": {
+      "name": "RajaRajeshwaran V",
+      "label": "Programmer",
+      "image": "",
+      "email": "rajeshwaranaraja654@gmail.com",
+      "phone": "7824034591"
+    },
+    "education": [{
+      "institution": "University"
+    }],
+    "skills": [{
+      "name": "Full Stack Developer",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }],
+    "languages": [{
+      "language": "English,Tamil"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }]
+  
+  }
